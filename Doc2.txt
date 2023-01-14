@@ -1,0 +1,13 @@
+Jehan is my first Name;
+Hasan is my last name;
+011221186 is my ID;
+UIU is my University;
+CSE is my favourite subject;
+2022 is now;
+Male is gender;
+22 is age;
+Nasir Ahmed is my father;
+Sheuly Ahmed is my mother;
+01646456244 is contract number;
+Football is my life;
+Sergio Ramos is my ideal;
